@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @sasaell
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @youknow
+- 👀 I’m interested in anime 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 saia aslinya anime
-<!---
-Sasael7/Sasael7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<I don't talk much when I'm disappointed.is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
